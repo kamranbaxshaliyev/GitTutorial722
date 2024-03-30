@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Ders4Lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Ders4Lib2_jar/Ders4Lib2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Ders4Lib_jar/Ders4Lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
