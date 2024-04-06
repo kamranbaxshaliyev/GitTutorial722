@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Kamra
-=======
-722 Merge Conflict senol
->>>>>>> 12103bf2f14c8179a02f240447b8e2f2d8f7ae84
+Salam
